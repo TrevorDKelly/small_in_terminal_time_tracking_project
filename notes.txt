@@ -1,0 +1,4 @@
+to Add
+  error when empty database
+    adding first session doesnt work becase
+    everything checks against last session before moving on
